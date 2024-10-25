@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>SyverisDDoS</h1>
+  <strong>SyverisDDoS</strong>
 </p>
 
 # This is only for Minecraft servers.
